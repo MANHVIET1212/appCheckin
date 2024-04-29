@@ -1,4 +1,3 @@
-import 'package:demo/generate.dart';
 import 'package:demo/scan_qr.dart';
 import 'package:flutter/material.dart';
 
